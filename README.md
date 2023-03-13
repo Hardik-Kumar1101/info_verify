@@ -7,6 +7,6 @@ This is information verfiy React.js and Node.js web application
 ## 2.open thatfolder where it's download 
 ## 3.open your terminal or cmd and type "npm install"
 ## 4.And Type "npm run build" to create a build folder 
-## 5.Tpye "npm start" to run this 
+## 5.Type "npm start" to run this 
 
 Here is Demo
