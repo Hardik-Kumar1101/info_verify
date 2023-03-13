@@ -1,0 +1,18 @@
+.otpverifybox{
+    background-color: #CCCCFF;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 3px rgba(0,0,0,0.1);
+}
+.otpverifybox button{
+    background-color: #DE3163;
+    border: none;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,43 @@
+#sendtomail {
+    background-color: red;
+    float: right;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    margin: 30px 30px 0 0;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.listbox{
+    background-color: #9FE2BF;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    overflow: auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bar{
+    overflow-x: auto;
+    background-color: #6495ED;
+    text-align: justify;
+    border-radius: 5px;
+    margin:2% auto;
+    /* width: 700px; */
+    padding: 2px;
+    text-align: center;
+    box-shadow: 5px 2px 3px rgba(0,0,0,0.1);    
+}
+
+li{
+    color: white;
+    background-color: #6495ED;
+    display: inline;
+    padding: 5px;
+    border-radius: 5px;
+    justify-content: space-between;
+
+}
