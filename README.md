@@ -10,4 +10,4 @@ This is information verfiy React.js and Node.js web application
 ## 5.Type "npm start" to run this 
 
 Here is Demo
-[![Watch the video]([https://github.com/Hardik-Kumar1101/info_verify/blob/main/Screencast%20from%2013-03-23%2012:07:35%20PM%20IST.webm](https://drive.google.com/file/d/1-ULZxnfHoAD3YV5ejQrEiKoYoO6OBQMn/view?usp=share_link))]
+[![Watch the video](https://drive.google.com/file/d/1-ULZxnfHoAD3YV5ejQrEiKoYoO6OBQMn/view?usp=share_link)]
